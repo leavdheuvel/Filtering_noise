@@ -1,5 +1,5 @@
 # Filtering_noise
-An algorithm that filters noise in recorded audio.
+An algorithm that filters noise in sensors.
 
 For a hackaton we produced a sensor that records an ecg. An ecg records the electrical signal from your heart to check for different heart conditions. The sensor we based off of this electric circuit (https://swharden.com/blog/2016-08-08-diy-ecg-with-1-op-amp/):
 ![image](https://user-images.githubusercontent.com/80387555/115850532-3e8be480-a426-11eb-9f69-0976c05bfd23.png)
