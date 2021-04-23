@@ -12,3 +12,5 @@ The sensor didn't work that well so we couldn't really so any analysis, but some
 ![image](https://user-images.githubusercontent.com/80387555/115860867-6719db80-a432-11eb-9d64-d6ddad0a31cf.png)
 ![image](https://user-images.githubusercontent.com/80387555/115860904-74cf6100-a432-11eb-933d-b4d751e233e7.png)
 ![image](https://user-images.githubusercontent.com/80387555/115860946-7ef15f80-a432-11eb-980a-e9efa890915f.png)
+
+Because the threshold of when a signal is noise or not has been put in manually, there is still some noise in the last plot. This differs every time.
